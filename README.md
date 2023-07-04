@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DDI-DIV/test-infograb/_apis/build/status%2Fchad956.pipelines-java?branchName=main)](https://dev.azure.com/DDI-DIV/test-infograb/_build/latest?definitionId=4&branchName=main)
 
 # Contributing
 
